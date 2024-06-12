@@ -1,0 +1,10 @@
+name: omero-env
+channels:
+  - defaults
+  - conda-forge
+  - ome
+dependencies:
+  - ome::bioformats2raw=0.9.1
+  - ome::raw2ometiff=0.5.0
+  - conda-forge::omero-py==5.19.2
+

@@ -1,0 +1,5 @@
+omero_server: "demo.openmicroscopy.org"
+omero_user: ""
+omero_pass: ""
+omero_dataset: "Dataset:123"
+
